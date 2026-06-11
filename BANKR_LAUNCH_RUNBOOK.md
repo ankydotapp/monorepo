@@ -34,8 +34,8 @@ The registry records truth.
 | Deployer               | Anky / Hermes agent                          |
 | Fee beneficiary        | `ANKY_BANKR_FEES` Splits Treasury subaccount |
 | Website                | `https://anky.app`                           |
-| Token image            | TBD                                          |
-| Dexscreener art        | TBD                                          |
+| Token image            | `https://arweave.net/Nc8BhoY9TbiStUOFIcYZ0roXKBNa1KWavdj47dnNEbM` |
+| Dexscreener art        | `https://arweave.net/4xWahFm7SFQKicRNjPKVEovZq6htmkuCcfFxuv6YvrI` |
 | Covenant v2            | TBD                                          |
 | Contract address       | TBD                                          |
 | Deployment transaction | TBD                                          |

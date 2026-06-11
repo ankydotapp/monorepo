@@ -62,10 +62,10 @@ Statuses used in this document:
 | Canonical token name       | Anky                                         | Pending                |
 | Canonical token symbol     | ANKY                                         | Pending                |
 | Bankr fee beneficiary      | Splits Treasury subaccount `ANKY_BANKR_FEES` | Pending                |
-| Bankr fees account address | TBD                                          | Required before launch |
-| Anky agent signer          | TBD                                          | Required before launch |
-| JP signer                  | TBD                                          | Required before launch |
-| Brother signer             | TBD                                          | Required before launch |
+| Bankr fees account address | `0x3D45a97C4f76D43e810Ff107cB6dad3e5AF64641` | Canonical          |
+| Anky agent signer          | `a7ba0e95-da69-4bf1-9136-828a53d8105b` (passkey, anky@anky.app) | Canonical |
+| JP signer                  | `d69810cd-e251-49d9-84fa-6948b363bd29` (passkey, jpfraneto@gmail.com) | Canonical |
+| Brother signer             | TBD — not yet added to Splits team | Pending            |
 | Approval threshold         | 2-of-3                                       | Canonical              |
 | Accounting export source   | Splits Treasury                              | Canonical              |
 
@@ -127,8 +127,8 @@ Hermes / Anky = agent signer and operator
 
 | Account                | Purpose                                            | Status           |
 | ---------------------- | -------------------------------------------------- | ---------------- |
-| Anky, Inc. Splits Team | Master Splits business workspace                   | Pending / verify |
-| `ANKY_BANKR_FEES`      | Receives Bankr creator fees                        | Pending          |
+| Anky, Inc. Splits Team | Master Splits business workspace                   | Canonical      |
+| `ANKY_BANKR_FEES`      | Receives Bankr creator fees                        | Canonical      |
 | `ANKY_AGENT_OPS`       | Optional future operating account for agent budget | TBD              |
 | `ANKY_TAX_RESERVE`     | Optional future tax reserve account                | TBD              |
 | `ANKY_VENDOR_PAYMENTS` | Optional future vendor payment account             | TBD              |
