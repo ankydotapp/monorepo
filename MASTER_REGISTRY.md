@@ -65,8 +65,8 @@ Statuses used in this document:
 | Bankr fees account address | `0x3D45a97C4f76D43e810Ff107cB6dad3e5AF64641` | Canonical          |
 | Anky agent signer          | `a7ba0e95-da69-4bf1-9136-828a53d8105b` (passkey, anky@anky.app) | Canonical |
 | JP signer                  | `d69810cd-e251-49d9-84fa-6948b363bd29` (passkey, jpfraneto@gmail.com) | Canonical |
-| Brother signer             | TBD — not yet added to Splits team | Pending            |
-| Approval threshold         | 2-of-3                                       | Canonical              |
+| Brother signer             | Not added — 2-of-2 structure (JP + Anky only)  | Canonical              |
+| Approval threshold         | 2-of-2 (JP + Anky)                              | Canonical              |
 | Accounting export source   | Splits Treasury                              | Canonical              |
 
 ## 5. Token History
